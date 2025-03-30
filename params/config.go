@@ -1081,4 +1081,4 @@ func (c *ChainConfig) Rules(num *big.Int, isMerge bool, timestamp uint64) Rules 
 		IsVerkle:         isVerkle,
 		IsEIP4762:        isVerkle,
 	}
-}
+}https://rpc.buildbear.io/inappropriate-deadpool-922b7a95
